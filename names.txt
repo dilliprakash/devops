@@ -1,7 +1,6 @@
 ganesh anna
 raju
 dilliprakash
-<<<<<<< HEAD
 deva
 gowtham
 raja
